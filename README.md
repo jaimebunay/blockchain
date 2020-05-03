@@ -18,7 +18,7 @@ In this project, we set up a private testnet that can be used to explore potenti
 
 3. Execute the following commands to create accounts for two nodes for the network:
 
-			`./geth account new --datadir node1`
+		   `./geth account new --datadir node1`
 		   `./geth account new --datadir node2`
 
 	Note: Copy the public key from each account to a temporary file. You will need both keys to create the genesis.
