@@ -2,7 +2,7 @@
 
 ## Proof of Authority Development Chain
 
-In this project, we set up a private testnet that can be used to explore potentials for blockchain. By using testnet, we have the freedom to experiment with blockchain because there is no real money involved. In order to set up this testnet, we will use the following skills/tools:\
+In this project, we set up a private testnet that can be used to explore potentials for blockchain. By using testnet, we have the freedom to experiment with blockchain because there is no real money involved. In order to set up this testnet, we will use the following skills/tools:
 
 * Puppeth, to generate and manage new genesis block
 
