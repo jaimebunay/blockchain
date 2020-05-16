@@ -52,7 +52,7 @@ In this project, we set up a private testnet that can be used to explore potenti
 
 1. Execute the following command to run node1. Include --miner to enable mining of new blocks. Unlock the account with --unlock. The --minerthreads parameter CPU usage during mining.
 
-	`./geth --datadir node1 --mine --minerthreads 1 --unlock "node1_public_key"`
+	`./geth --datadir node1 --mine --minerthreads 1 --allow-insecure-unlock --unlock "node1_public_key"`
 
 	Note: Save the "enode://...." address in the temporary file.
 
